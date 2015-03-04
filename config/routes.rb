@@ -2,6 +2,9 @@ Rails.application.routes.draw do
 
   root 'welcome#index'
   
-  post :signup, :login
+  controller :welcome do
+    get :home, :logout
+    post :signup, :login
+  end
 
 end
