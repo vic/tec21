@@ -1,5 +1,12 @@
 == README
 
+El demo de angular: 
+
+https://gist.github.com/vic/1cd6b2620ed508ac430b
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
